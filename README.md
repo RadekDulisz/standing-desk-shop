@@ -1,7 +1,7 @@
 # Desk shop
 
 This is a landing page I made for an online shop for standing desks
-## Demo: [LINK](https://aesthetic-sable-3b5ac1.netlify.app)
+## Demo: [LINK](https://radek-desk-shop.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/27691628/226177594-479bb186-a463-40c8-8b93-5e01330777d5.png)
 
